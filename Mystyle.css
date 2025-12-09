@@ -1,0 +1,53 @@
+
+
+
+#hero-container{
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#btn-cta{
+    background-color: black;
+    color: azure;
+}
+
+#hero-container-2{
+display: flex;
+justify-content: space-around;
+
+}
+
+
+
+
+.product{
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0px;
+    
+}
+
+#btn-1{
+ border-radius: 5px;
+ padding: 8px 5px;
+ 
+}
+#btn-2{
+ border-radius: 5px;
+ padding: 8px 5px;
+}
+#btn-3{
+ border-radius: 5px;
+ padding: 8px 5px;
+}
+
+
