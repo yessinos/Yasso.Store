@@ -38,16 +38,34 @@ justify-content: space-around;
 
 #btn-1{
  border-radius: 5px;
- padding: 8px 5px;
- 
+ padding: 10px 8px;
+ background-color: greenyellow;
+ border-color: greenyellow;
 }
 #btn-2{
  border-radius: 5px;
- padding: 8px 5px;
+ padding: 10px 8px;
+ background-color: violet;
+ border-color: violet;
 }
 #btn-3{
  border-radius: 5px;
- padding: 8px 5px;
+ padding: 10px 8px;
+ background-color: bisque;
+ border-color: bisque;
 }
 
+#hero-cards{
 
+      display: flex;
+      justify-content: space-around;
+    align-items: center;
+flex-wrap: wrap;
+}
+
+#hero-cards-2{
+     display: flex;
+      justify-content: space-around;
+    align-items: center;
+flex-wrap: wrap;
+}
